@@ -1,0 +1,4 @@
+# B42 Colors
+The repository serves as a collection of the colors used from the default [Rules.txt](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/root-rules.html) files from the different Project Zomboid [mapping tools](https://pzwiki.net/wiki/Mapping#Mapping_tools). The following files are provided:
+- [MAP and MAP_veg Colors - Official Tools B42.png](MAP%20and%20MAP_veg%20Colors%20-%20Official%20Tools%20B42.png) used in the [Community Edition mapping tools](https://pzwiki.net/wiki/Mapping_tools_(Community_Edition)) but also the [Official mapping tools](https://pzwiki.net/wiki/Mapping_tools_(official)) once they release for B42
+- [MAP and MAP_veg Colors.png](MAP%20and%20MAP_veg%20Colors.png) used in [Alree's mapping tools](https://pzwiki.net/wiki/Mapping_tools_(Alree))
